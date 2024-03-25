@@ -79,7 +79,7 @@
     "invert-color": "^2.0.0",
     "js-yaml": "^3.13.1",
     "jsonlint-mod": "^1.7.4",
-    "katex": "^0.10.1",
+    "katex": "^0.16.10",
     "lodash": "^4.17.19",
     "lodash-move": "^1.1.1",
     "markdown-it": "^6.0.1",
